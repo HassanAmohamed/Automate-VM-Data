@@ -1,0 +1,29 @@
+Please, Enter teh directory that you want to backup 
+BAckup Completed successfuly. Backup file  /home/ubuntu/final-project/backup/file-backup---.tar.gz 
+BAckup Completed successfuly. Backup file  /home/ubuntu/final-project/backup/file-backup---.tar.gz 
+BAckup Completed successfuly. Backup file  /home/ubuntu/final-project/backup/file-backup---.tar.gz 
+Backup Completed successfully. Backup file /home/ubuntu/final-project/backup/file-backup-08-22-2024_22_03_40.tar.gz
+tar: Substituting `.' for empty member name
+tar: : Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+upload failed: ../../final-project/backup/file-backup-01-23-2025_20_36_46.tar.gz to s3://my-new-s3-bucket3/file-backup-01-23-2025_20_36_46.tar.gz An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+File Uploaded successfully to the S3 bucket: my-new-s3-bucket3
+tar: Substituting `.' for empty member name
+tar: : Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+upload failed: ../../final-project/backup/file-backup-01-23-2025_20_39_07.tar.gz to s3://my-new-s3-bucket3/file-backup-01-23-2025_20_39_07.tar.gz An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+File Uploaded successfully to the S3 bucket: my-new-s3-bucket3
+tar: Substituting `.' for empty member name
+tar: : Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+upload failed: ../../final-project/backup/file-backup-01-23-2025_20_40_44.tar.gz to s3://my-new-s3-bucket3/file-backup-01-23-2025_20_40_44.tar.gz An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+File Uploaded successfully to the S3 bucket: my-new-s3-bucket3
+tar: Substituting `.' for empty member name
+tar: : Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+Completed 45 Bytes/45 Bytes (812 Bytes/s) with 1 file(s) remainingupload: ../../final-project/backup/file-backup-01-23-2025_20_42_45.tar.gz to s3://s3-new-course/file-backup-01-23-2025_20_42_45.tar.gz
+File Uploaded successfully to the S3 bucket: s3-new-course
+Backup Completed successfully. Backup file /home/ubuntu/final-project/backup/file-backup-01-23-2025_20_48_33.tar.gz
+Backup Completed successfully. Backup file /home/ubuntu/final-project/backup/file-backup-01-23-2025_20_50_26.tar.gz
+Backup Completed successfully. Backup file /home/ubuntu/final-project/backup/file-backup-01-23-2025_21_09_36.tar.gz
+Backup Completed successfully. Backup file /home/ubuntu/final-project/backup/file-backup-01-23-2025_21_09_52.tar.gz
